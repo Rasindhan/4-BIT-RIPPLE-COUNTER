@@ -103,4 +103,5 @@ endmodule
 ![image](https://github.com/user-attachments/assets/eb2b7a0c-9987-4617-a70b-0fa82d6d9006)
 
 **RESULTS**
+
 4 Bit Ripple Counter using verilog and validating their functionality using their functional tables
